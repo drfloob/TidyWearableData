@@ -7,6 +7,7 @@ A demonstration of working with and tidying data, using UCI's "Human Activity Re
 
 `tests.R` performs a few sanity checks on the intermediate datasets.
 
+`harAvg.table.txt`, `harAvg.result.R`, and `harTidier.result.R` are the results of running the analysis.
 
 ## The Data
 

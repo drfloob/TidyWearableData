@@ -110,4 +110,4 @@ dput(harTidier, "harTidier.result.R")
 dput(harAvg, "harAvg.result.R")
 
 # write data per homework submission instructions
-write.table(harAvg, file="harAvg.table", row.names = FALSE)
+write.table(harAvg, file="harAvg.table.txt", row.names = FALSE)
