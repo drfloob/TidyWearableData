@@ -3,7 +3,7 @@ A demonstration of working with and tidying data, using UCI's "Human Activity Re
 
 ## Scripts
 
-`run_analysis.R` performs all of the data manipulations and generates the resulting datasets.
+`run_analysis.R` performs all of the data manipulations and generates the resulting datasets. It will download and unzip the data on its own, if necessary.
 
 `tests.R` performs a few sanity checks on the intermediate datasets.
 
