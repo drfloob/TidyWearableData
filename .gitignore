@@ -1,6 +1,7 @@
 HAR.zip
 UCI*
 *result.R
+*.table
 
 # History files
 .Rhistory

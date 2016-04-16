@@ -108,3 +108,6 @@ harAvg <- group_by(harTidier, subjectID, activityLabel, measurement) %>%
 
 dput(harTidier, "harTidier.result.R")
 dput(harAvg, "harAvg.result.R")
+
+# write data per homework submission instructions
+write.table(harAvg, file="harAvg.table", row.names = FALSE)
